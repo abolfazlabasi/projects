@@ -12,5 +12,13 @@
  # 6= node --version 
  # 7=cd ~ با این کد شما میتوانید پروژه خود را بیاورید
  # 8=clear  با این کد هم متونید کد هایی قبلی خودتون رو پاک کنید
- 
+ # 9=  الان دیگه شروع به ساختن فولدرمون میکنیم 
+ # 10= mkdir projects 
+ # 11= cd projects 
+ # 12= mkdir talash && cd talash 
+ # 13= yarn create vite first-app --template vue 
+ # 14= cd first-app 
+ # 15= yarn 
+ # 16= yarn dev
+ پروژه ما ران شد .
 
