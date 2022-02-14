@@ -7,4 +7,10 @@
  # 1= npm -v
  # 2= npm install -g @vue/cli 
  # 3= npm install npm@latest -g 
+ # 4= npm install --global yarn 
+ # 5= yarn --version
+ # 6= node --version 
+ # 7=cd ~ با این کد شما میتوانید پروژه خود را بیاورید
+ # 8=clear  با این کد هم متونید کد هایی قبلی خودتون رو پاک کنید
+ 
 
